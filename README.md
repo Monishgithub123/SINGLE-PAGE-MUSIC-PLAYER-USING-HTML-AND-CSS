@@ -11,7 +11,7 @@ This project is a basic single-page music player created using HTML and CSS. It 
 
 ## Usage
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/simple-music-player.git`.
+1. Clone this repository to your local machine using `git clone (https://github.com/Monishgithub123/SINGLE-PAGE-MUSIC-PLAYER-USING-HTML-AND-CSS.git)`.
 
 2. Open the `index.html` file in a web browser to access the music player interface.
 
