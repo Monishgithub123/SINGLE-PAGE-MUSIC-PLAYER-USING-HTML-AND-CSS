@@ -36,6 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 
-# HOSTED LINK - https://monishgithub123.github.io/SINGLE-PAGE-MUSIC-PLAYER-USING-HTML-AND-CSS/
+ HOSTED LINK - https://monishgithub123.github.io/SINGLE-PAGE-MUSIC-PLAYER-USING-HTML-AND-CSS/
 
 Enjoy the simplicity of the Simple Single-Page Music Player! For questions or feedback, contact [monishyedlewar001@gmail.com].
